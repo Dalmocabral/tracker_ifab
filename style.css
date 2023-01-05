@@ -1,3 +1,21 @@
 #map { 
-    height: 680px;
+    height: 480px;
+    margin-top: 30px;
  }
+
+ .labelstyle {
+
+    color: red;
+    font-size: 14px;
+    font-weight: 700;
+    fillColor: none;
+    fillOpacity: 0;
+    background-color: none;
+    border-color: none;
+    background: none;
+    border: none;
+    box-shadow: none;
+    margin: 0px;
+    cursor: none;
+
+  }
